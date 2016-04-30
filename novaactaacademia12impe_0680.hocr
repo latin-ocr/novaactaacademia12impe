@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaacademia12impe_0680.png"; bbox 0 0 2019 1557; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 252 192 1518 1118">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 252 192 1518 1118">
+     <span class='ocr_line' id='line_1_1' title="bbox 252 192 1518 1118; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 252 192 1518 1118; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1635 425 1669 569">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1635 379 1669 569">
+     <span class='ocr_line' id='line_1_2' title="bbox 1635 425 1669 569; textangle 90"><span class='ocrx_word' id='word_1_2' title='bbox 1635 528 1665 569; x_wconf 61' lang='grc' dir='ltr'><em>Τ</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1637 425 1669 515; x_wconf 55' lang='lat'><em>²222*</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1602 571 1668 1293">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1602 571 1668 1293">
+     <span class='ocr_line' id='line_1_3' title="bbox 1602 571 1668 1293; textangle 90"><span class='ocrx_word' id='word_1_4' title='bbox 1611 1235 1644 1293; x_wconf 66' lang='lat' dir='ltr'><em>Z!</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1613 1151 1649 1226; x_wconf 65' lang='lat'><em>&#39;757</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1602 833 1658 1143; x_wconf 45' lang='lat' dir='ltr'><em>LILY&#39;HMJ·A⁷52{Z</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1611 571 1668 822; x_wconf 47' lang='lat' dir='ltr'><em>:zallaszffsym</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

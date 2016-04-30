@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaacademia12impe_0696.png"; bbox 0 0 2912 4368; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 1486 0 1764">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 1486 0 1764">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 1486 0 1758"><span class='ocrx_word' id='word_1_1' title='bbox 0 1486 0 1758; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 0 1490 0 1764"><span class='ocrx_word' id='word_1_2' title='bbox 0 1490 0 1764; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 73 3855 121 4368">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 73 3855 121 4368">
+     <span class='ocr_line' id='line_1_3' title="bbox 73 3855 121 4368; baseline -256.5 1539"><span class='ocrx_word' id='word_1_3' title='bbox 76 3855 111 3880; x_wconf 60' lang='lat'><strong>.·</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 83 3948 113 3965; x_wconf 67' lang='grc' dir='ltr'><strong>ο</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 80 4031 114 4048; x_wconf 68' lang='grc' dir='ltr'><strong>ο</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 75 4092 118 4129; x_wconf 53' lang='grc' dir='ltr'><strong>,ὃ</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 74 4151 121 4212; x_wconf 58' lang='grc' dir='ltr'><strong>Β..</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 73 4232 119 4291; x_wconf 48' lang='grc' dir='ltr'><strong>νὼ-</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 78 4323 118 4368; x_wconf 66' lang='grc' dir='ltr'><strong>ἰ-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 1 81 4368">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 1 81 4368">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 1 81 4359"><span class='ocrx_word' id='word_1_10' title='bbox 0 1 81 154; x_wconf 53' lang='grc' dir='ltr'><strong>ῧι,</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 48 3541 50 3543; x_wconf 73' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 69 3675 71 3677; x_wconf 82' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 31 3796 60 3840; x_wconf 80' lang='grc'><strong>,.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 26 3907 60 3924; x_wconf 84' lang='grc'>.</span> <span class='ocrx_word' id='word_1_15' title='bbox 0 3988 72 4359; x_wconf 56' lang='grc' dir='ltr'><strong>.-.Ι-Ε..</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 0 70 33 4368"><span class='ocrx_word' id='word_1_16' title='bbox 0 70 33 228; x_wconf 43' lang='lat' dir='ltr'><strong>.‚÷›Bm</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 2 387 4 389; x_wconf 96' lang='lat'>.</span> <span class='ocrx_word' id='word_1_18' title='bbox 0 3790 9 3798; x_wconf 68' lang='lat'>2</span> <span class='ocrx_word' id='word_1_19' title='bbox 0 3867 10 3884; x_wconf 83' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_20' title='bbox 0 3949 11 3965; x_wconf 85' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_21' title='bbox 0 4030 15 4050; x_wconf 82' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_22' title='bbox 0 4307 19 4368; x_wconf 59' lang='lat' dir='ltr'><strong>„ba-</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

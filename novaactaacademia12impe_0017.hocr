@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaacademia12impe_0017.png"; bbox 0 0 1987 2716; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 111 720 1707 1282">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 111 720 1707 1282">
+     <span class='ocr_line' id='line_1_1' title="bbox 440 720 1369 843; baseline -0.006 0"><span class='ocrx_word' id='word_1_1' title='bbox 440 727 543 843; x_wconf 92' lang='lat' dir='ltr'>H</span> <span class='ocrx_word' id='word_1_2' title='bbox 581 723 724 843; x_wconf 86' lang='lat' dir='ltr'><strong>IS</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 758 722 862 839; x_wconf 92' lang='lat' dir='ltr'>T</span> <span class='ocrx_word' id='word_1_4' title='bbox 906 723 1004 840; x_wconf 88' lang='lat' dir='ltr'>O</span> <span class='ocrx_word' id='word_1_5' title='bbox 1048 723 1093 841; x_wconf 93' lang='lat' dir='ltr'>I</span> <span class='ocrx_word' id='word_1_6' title='bbox 1139 720 1237 836; x_wconf 93' lang='lat' dir='ltr'>R</span> <span class='ocrx_word' id='word_1_7' title='bbox 1275 720 1369 837; x_wconf 88' lang='lat' dir='ltr'>E</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 858 941 960 986; baseline -0.01 0"><span class='ocrx_word' id='word_1_8' title='bbox 858 941 960 986; x_wconf 84' lang='lat' dir='ltr'><strong>DE</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 111 1053 1707 1155; baseline 0.002 -7"><span class='ocrx_word' id='word_1_9' title='bbox 111 1056 868 1155; x_wconf 79' lang='lat' dir='ltr'>L’ACADEMIE</span> <span class='ocrx_word' id='word_1_10' title='bbox 1000 1053 1707 1155; x_wconf 80' lang='lat' dir='ltr'><strong>IMPERIALE</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 893 1237 978 1282; baseline -0.012 0"><span class='ocrx_word' id='word_1_11' title='bbox 893 1237 978 1282; x_wconf 89' lang='lat' dir='ltr'><strong>FS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 483 1239 1336 1452">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 483 1239 1336 1452">
+     <span class='ocr_line' id='line_1_5' title="bbox 833 1239 932 1283; baseline -0.01 0"><span class='ocrx_word' id='word_1_12' title='bbox 833 1239 932 1283; x_wconf 57' lang='lat' dir='ltr'><strong>D„</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 483 1365 1336 1452; baseline 0.012 -10"><span class='ocrx_word' id='word_1_13' title='bbox 483 1365 1336 1452; x_wconf 85' lang='lat' dir='ltr'><strong>SCIENCES.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

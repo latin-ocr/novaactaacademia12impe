@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaacademia12impe_0393.png"; bbox 0 0 1987 2716; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 210 1208 1519 1361">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 210 1208 1519 1361">
+     <span class='ocr_line' id='line_1_1' title="bbox 210 1208 1519 1361; baseline -0.008 1"><span class='ocrx_word' id='word_1_1' title='bbox 210 1208 1519 1361; x_wconf 81' lang='lat' dir='ltr'><strong>PHYSICA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 89 2345 1390 2409">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 89 2345 1390 2409">
+     <span class='ocr_line' id='line_1_2' title="bbox 89 2345 1390 2409; baseline -0.002 -13"><span class='ocrx_word' id='word_1_2' title='bbox 89 2349 217 2398; x_wconf 80' lang='lat' dir='ltr'><em>Nova</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 234 2345 341 2395; x_wconf 66' lang='lat' dir='ltr'><strong><em>Aaea</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 361 2346 504 2395; x_wconf 83' lang='lat' dir='ltr'><strong><em>Acad.</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 523 2348 632 2409; x_wconf 87' lang='lat' dir='ltr'><strong><em>Imp.</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 651 2349 808 2397; x_wconf 75' lang='lat' dir='ltr'><em>Scient.</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 831 2353 946 2397; x_wconf 85' lang='lat' dir='ltr'><em>Tom.</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 965 2349 1072 2396; x_wconf 85' lang='lat' dir='ltr'><em>XII.</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1265 2347 1319 2395; x_wconf 83' lang='lat' dir='ltr'>M</span> <span class='ocrx_word' id='word_1_10' title='bbox 1343 2360 1390 2394; x_wconf 86' lang='lat' dir='ltr'><strong>m</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

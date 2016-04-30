@@ -1,0 +1,39 @@
+HIS·T01RE·‚ 61
+
+d'une facon dans la forme maeoe-l-nyy sera un nombre
+compose' ou non- premiffl.
+
+Cependant il saut se garder d’en conclure que tous
+les nombres qui ne sont contentas que d'une seule muniere
+dans la forme maeae--mzyy soyent premiersg car il y a tres
+cer-{aiaemcnt une infini’e de valeurs pour m et n5 pour
+lesquelles la formule nzaeae-4-11ny renferme des nombres
+composeS„ quoiqu'ils n'y soyent contenus*que d'une seule
+manrere3 landis qu‘il y en a (l’autres nombre& metm pour
+lesquelles la formule macr 4- nyy' ‘renferme des nombres
+composes, quoiqu'ils n'y soyent contenus que d'une seule
+manicre3 tundis qu'il y en a d'autres nombres m et η, pour
+lesquelles la proposition inverse mentionnee a evrdemment
+lieu. ll est donc interessant de connoilre les valeurs de m
+et n qui tendent ld formule rlzoeae—e-nyy telle qu'un nombre
+qui n'y est confenu que d³une seule falcon, soit premier.
+C'est le sujet qui a occupe' leu ΜΓ. Euler dans le present
+Me'moire, ou il donne une table de ces nombres m et η
+
+qu'il appelle nombres congrus et dont 11 y demontre les
+proprieles remarquables suivautes:
+
+1) Si la for-mule mxx ἢ* nyy· est congrue, la formule
+mnaeae —†- ys le sera auffi, et vice versa.
+
+2) Dans la suite des nombres congrus mn il ne se trouve
+d’aulres nombres quarres que ι, 4„ 9, 16 et 25.
+
+3) Lorsque un nombre congru est de la forme 40( —— τ,
+son quadruple 4(4a - 1) sera auffi un nombre congru.
+
+4) Si i est un nombre impair‚ et· que 41⁶, est un nombre
+congru, son qrrddruple ιυὶ sera uuffi un nombre congru.
+
+5)Α
+

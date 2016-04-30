@@ -1,0 +1,46 @@
+ 
+
+ 
+
+”“““““”“ 239
+
+ 
+
+s.) Tou't nombre premsser plus grand quea, admei:
+une rodnffion primiiive (Cor-011. 6.) δι n'admet aucune re·
+duffion secondaire. (Coroll. 7.). ⁷
+
+Propofition IV:
+
+ς. 12. Tont nombre impar'r non—carre et non-multi· ,
+
+ple de trois qni n’est qne d'une seule muniere Ia differsnce
+
+de deux carres dont u·1 sensa un multiple de trois pour
+meme, est un nombre premier.
+
+Demonstration.
+
+Tout nombre impair non-multiple de trois admei:
+mne reduffion primitive *prop ΙΙΙ. Cor. c·.); il est donc au
+moiws d’une manime [a difference de dsnx pareds curres 3‘
+ἃ εἨ est compose‚ sans etre carre, il adauct encore une
+red rffion seconddire (prop. 111) Don‘: fi unnombre imperit
+non-carre ἃ non—multiple de trois n’udmet aucune redoc-
+tion scconddirc, ἂι par consequent s'il n’est que d'une seule
+muniere Lx differente de deux pareils cartes 7 il n'est point
+compose', ἃ partant il est premier.
+
+CorollaireS. 1
+
+1.) ΜΓ, Euler a donne pour sous les nombres imss
+
+1pairs de la forme a m -4— 1 une methode <r‘exammer s’ils
+sort premier-s ou compose's. en part-ant ‘d'iin des plus beaux
+theoremes de ΜΓ. Fer-mat, que Mr. Euler a dc'montre le
+premier: que tout nombre premier de la ‘forme 4 m-r- 1 est
+la somme de deux carr-es premiers entre eux ἃ ne l'est qne
+d'une sCUlC mdnissre· Celui· qne Je vient d’exposer ddns la
+Propofiuon precedente, offre pour tous les nombres impairs
+uon·
+
